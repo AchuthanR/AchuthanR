@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Achuthan R
+A passionate software engineer from India.
+
+* I'm looking to collaborate on my project [nuro](https://github.com/AchuthanR/nuro)
+* Reach me at r.achuthan2001@gmail.com
+
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/achuthan-r/).
+
 
 <!--
 **AchuthanR/AchuthanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
